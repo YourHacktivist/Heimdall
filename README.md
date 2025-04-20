@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" alt="Heimdall Banner" width="50%">
+</p>
 
 <h1 align="center">Heimdall – The Gatekeeper of Deceptive Credentials</h1>
 <p align="center"><i>Environment files crafted for curious attackers</i></p>
