@@ -20,7 +20,7 @@ It’s built for red teams, honeypots setup, CTFs, and anyone needing fake but p
 
 ## Features
 
-- Fake `.env` files with **valid patterns and naming**
+- Fake `.env` files in various formats with **valid patterns and names**
 - Designed for **deception**, **red teaming**, and **training environments**
 - Supports dozens of services: AWS, Firebase, MongoDB, Stripe, Supabase, etc.
 - Easy to extend — add your own templates
