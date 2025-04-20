@@ -10,6 +10,7 @@
 ## What is Heimdall ?
 
 **Heimdall** is a powerful CLI **honeypot** that generates **realistic-looking `.env` files** for a wide range of cloud services, databases, and APIs.  
+  
 It’s built for red teams, honeypots setup, CTFs, and anyone needing fake but plausible credentials.
 
 > <i>In Norse mythology, **Heimdall** guards the Bifröst — the rainbow bridge between worlds.</i>  
