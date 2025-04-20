@@ -35,21 +35,17 @@ Generate multiple MySQL credential files:
 
 - `python3 heimdall.py -t mysql -c 5`
 
-Create a GitHub token and save it to a specific file:
-
-- `python3 heimdall.py -t github -o github_token.env`
-
 Generate all credential types at once:
 
 - `python3 heimdall.py -t all -d ./credentials`
 
 List all available credential types:
 
-- `python heimdall.py -t list`
+- `python3 heimdall.py -t list`
 
 Generate a complete environment file with at least 30 variables:
 
-- `python heimdall.py -t dotenv -m 30`
+- `python3 heimdall.py -t dotenv -m 30`
 
 ---
 
